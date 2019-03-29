@@ -4,13 +4,15 @@
   "description": "Bootstrap 4 workflow",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "deploy": "gh-pages -d src"
   },
   "author": "Brad Traversy",
   "license": "MIT",
+  "homepage": "https://eslamabdo164.github.io/portofolio",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^2.0.1",
     "jquery": "^3.2.1",
     "popper.js": "^1.12.0"
   },
