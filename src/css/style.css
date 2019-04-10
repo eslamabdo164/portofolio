@@ -126,7 +126,7 @@ footer {
       font-size: 25px;
       border: 2px solid #8C43FF;
       color: #8C43FF;
-      width: 80%; }
+       }
     footer .bob .btn-outline-danger:hover {
       background-color: #8C43FF;
       color: #fff; }
@@ -173,3 +173,4 @@ footer {
     color: #fff;
     background: #8C43FF;
     cursor: pointer; }
+
